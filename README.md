@@ -2,7 +2,7 @@
  
 A comprehensive full-stack web application for managing vehicle service operations, bookings, mechanics, and customer relationships. Built as a modern, responsive dashboard for service providers.
 
-<img width="1377" height="917" alt="Screenshot 2026-09-02 174300" src="https://github.com/user-attachments/assets/6d9574e6-f2ac-4492-81af-e3864266d422" />
+
 
 
 ## 📋 Overview
@@ -18,13 +18,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - **51.3%** overall completion rate
 ## ✨ Features
 
-<img width="1028" height="845" alt="Screenshot 2026-09-02 205419" src="https://github.com/user-attachments/assets/6390c648-d01f-47ca-9414-d9d675a48fc8" />
-<img width="1523" height="1037" alt="Screenshot 2026-09-02 204941" src="https://github.com/user-attachments/assets/4fcd9323-bc1e-4ded-bcc7-6d3e2f201690" />
 
-
-
-
-<img width="1882" height="1037" alt="Screenshot 2026-09-02 204702" src="https://github.com/user-attachments/assets/9c70d049-88b8-4add-b2e3-9574cf78cecc" />
 ### 📊 Dashboard
 - Real-time operations overview with key performance indicators
 - Business metrics at a glance (customers, mechanics, vehicles, revenue)
@@ -32,7 +26,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - Booking status distribution
 - Recent bookings activity feed
 - 
-<img width="1105" height="1032" alt="Screenshot 2026-09-02 204735" src="https://github.com/user-attachments/assets/de9035f1-c00a-423f-abfd-e3074b674f4b" />
+
 ### 📅 Bookings Management
 - Complete service appointment management
 - Advanced filtering by status, date range
@@ -41,7 +35,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - Mechanic assignment and scheduling
 - Real-time status updates
 
-<img width="981" height="1052" alt="Screenshot 2026-09-02 204758" src="https://github.com/user-attachments/assets/58669601-3acc-4213-8f9d-9169eeb9ac6e" />
+
 ### 👨‍🔧 Mechanics Management
 - Field team monitoring and performance tracking
 - Mechanic availability status (Available, Busy, On The Way, Offline)
@@ -49,7 +43,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - Location tracking
 - Contact information and performance metrics
 
-<img width="1001" height="1052" alt="Screenshot 2026-09-02 204827" src="https://github.com/user-attachments/assets/5138d320-42b3-4494-9f99-4c34e0c13291" />
+
 ### 👥 Customer Management
 - Comprehensive customer database
 - Contact information and location tracking
@@ -57,7 +51,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - Search and filter capabilities
 - Customer visit history and preferences
 
-<img width="1001" height="1052" alt="Screenshot 2026-09-02 204827" src="https://github.com/user-attachments/assets/5138d320-42b3-4494-9f99-4c34e0c13291" />
+
 ### 🚗 Vehicle Management
 - Complete vehicle fleet registry
 - Vehicle details (make, model, registration, year, fuel type)
@@ -65,7 +59,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - Service history per vehicle
 - Maintenance tracking
 
-<img width="1001" height="1052" alt="Screenshot 2026-09-02 204827" src="https://github.com/user-attachments/assets/5138d320-42b3-4494-9f99-4c34e0c13291" />
+
 ### 🔧 Service Catalog
 - 8+ Service offerings including:
   - Oil Change
@@ -78,7 +72,7 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
   - Engine Diagnostics
 - Pricing and duration information
 - Service categorization
-<img width="677" height="1050" alt="Screenshot 2026-09-02 204909" src="https://github.com/user-attachments/assets/b710c241-511c-4c3f-8f2b-8646ace008a4" />
+
 ### 📈 Analytics & Reporting
 - Platform-wide performance metrics
 - Booking trends analysis
@@ -98,11 +92,10 @@ Instant Mechanic is an operations platform designed to streamline vehicle servic
 - **Node.js** - Runtime environment
 - **Express** - Web framework
 - **PostgreSQL** - Database
-- **JWT** - Authentication
+- 
 ### Tools & Deployment
-- **Docker** - Containerization
-- **Git** - Version control
-- **REST API** - Backend communication
+-Vercel
+
 ## 🚀 Getting Started
  
 ### Prerequisites
