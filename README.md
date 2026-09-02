@@ -2,9 +2,6 @@
  
 A comprehensive full-stack web application for managing vehicle service operations, bookings, mechanics, and customer relationships. Built as a modern, responsive dashboard for service providers.
 
-
-
-
 ## 📋 Overview
  
 Instant Mechanic is an operations platform designed to streamline vehicle service management. It provides real-time visibility into bookings, mechanics availability, customer information, vehicle fleet, and comprehensive analytics for service businesses.
