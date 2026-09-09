@@ -300,14 +300,7 @@ For support, email support@instantmechanic.com or open an issue on GitHub.
 ">
     <img src="https://img.shields.io/badge/📊%20Download%20PPT-PlantGuard-FF6F00?style=for-the-badge" />
   </a>
-</p>
-">
-    <img src="https://img.shields.io/badge/📊%20Project%20PPT-View%20Presentation-FF6F00?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ArnavvGuupta/PlantGuard">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+
 
  
 **Last Updated:** September 2, 2026
