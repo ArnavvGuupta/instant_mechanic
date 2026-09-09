@@ -294,7 +294,15 @@ For support, email support@instantmechanic.com or open an issue on GitHub.
 - **Full Stack Developer** - End-to-end implementation
 ---
 
-[Instant_Mechanic_Technical_Assessment.pptx](https://github.com/user-attachments/files/32023409/Instant_Mechanic_Technical_Assessment.pptx)
+<p>
+  <a href="[Instant_Mechanic_Technical_Assessment.pptx](https://github.com/user-attachments/files/32023443/Instant_Mechanic_Technical_Assessment.pptx)
+">
+    <img src="https://img.shields.io/badge/📊%20Project%20PPT-View%20Presentation-FF6F00?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ArnavvGuupta/PlantGuard">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
  
 **Last Updated:** September 2, 2026
