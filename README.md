@@ -295,7 +295,12 @@ For support, email support@instantmechanic.com or open an issue on GitHub.
 ---
 
 <p>
-  <a href="[Instant_Mechanic_Technical_Assessment.pptx](https://github.com/user-attachments/files/32023476/Instant_Mechanic_Technical_Assessment.pptx)
+<p>
+  <a href="[Instant_Mechanic_Technical_Assessment.pptx](https://github.com/user-attachments/files/32023583/Instant_Mechanic_Technical_Assessment.pptx)
+">
+    <img src="https://img.shields.io/badge/📊%20Download%20PPT-PlantGuard-FF6F00?style=for-the-badge" />
+  </a>
+</p>
 ">
     <img src="https://img.shields.io/badge/📊%20Project%20PPT-View%20Presentation-FF6F00?style=for-the-badge" />
   </a>
