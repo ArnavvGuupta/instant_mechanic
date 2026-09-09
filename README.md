@@ -1,6 +1,7 @@
 # Instant Mechanic - Vehicle Service Operations Dashboard
  
 A comprehensive full-stack web application for managing vehicle service operations, bookings, mechanics, and customer relationships. Built as a modern, responsive dashboard for service providers.
+<img width="1500" height="750" alt="Screenshot 2026-09-10 011724" src="https://github.com/user-attachments/assets/e6ad876a-4c92-470b-adb4-06f602981266" />
 
 ## 📋 Overview
  
