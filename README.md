@@ -201,6 +201,7 @@ instant-mechanic/
 │   └── package.json
 └── README.md
 ```
+
  
 ## 🔐 Authentication
  
@@ -292,6 +293,9 @@ For support, email support@instantmechanic.com or open an issue on GitHub.
 - **Backend Developer** - Node.js/Express/postgresSQL
 - **Full Stack Developer** - End-to-end implementation
 ---
+
+[Instant_Mechanic_Technical_Assessment.pptx](https://github.com/user-attachments/files/32023409/Instant_Mechanic_Technical_Assessment.pptx)
+
  
 **Last Updated:** September 2, 2026
  
